@@ -1,11 +1,30 @@
 ---
-title: "Glasgow-CompBio.github.io"
+title: "Glasgow Computational Biology Community"
+about:
+  template: trestles
+  image: UoG.jpeg
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/glasgowcompbio
+    - icon: envelope
+      text: Email
+      href: mailto:compbio-conference@glasgow.ac.uk
+    - icon: list
+      text: Mailing list
+      href: https://lists.cent.gla.ac.uk/sympa/info/compbio
 ---
 
-This is a Quarto website.
+# Bringing Glasgow's computational biology & bioinformatics community together
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+If you're using a computer to solve a biology problem and you're at the University of Glasgow, you are part of the Glasgow Computational Biology community. Come along to one of our events!
 
-```{r}
-1 + 1
-```
+## Events
+
+Regular events to share science and have a chat!
+
+The community hosts events to chat about cool innovations in computational biology and bioinformatics. We have events across the university at the main campus at Gilmorehill and at various centres at Garscube and then often head to the pub. Come join us!
+
+## The Conference
+
+The next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023's great event.

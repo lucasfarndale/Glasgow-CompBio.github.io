@@ -1,0 +1,15 @@
+---
+title: "Next Event"
+about:
+  template: trestles
+---
+
+# Metabolomics
+
+#### **3:30pm on Friday October 27th in SAWB 422/423 (School of Computing Science)**
+
+We have 3 exciting talks lined up with speakers information below. The talks will be in Room 422/423 of the Sir Alwyn Williams Building (SAWB) in the School of Computing Science. And come along to the pub afterwards!
+
+-   Mike Barrett: Metabolomics in Drug Discovery
+-   Gavin Blackburn: Metabolomics Data Analysis- why it's not so straightforward
+-   Clement Regnault: Metabolomics: applications in biology

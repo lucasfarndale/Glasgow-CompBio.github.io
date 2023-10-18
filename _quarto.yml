@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Glasgow-CompBio.github.io"
+  title: "Glasgow CompBio Community"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - nextEvent.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
