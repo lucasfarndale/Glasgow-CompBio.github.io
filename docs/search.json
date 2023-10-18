@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Glasgow-CompBio.github.io",
+    "title": "Glasgow Computational Biology Community",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "If you’re using a computer to solve a biology problem and you’re at the University of Glasgow, you are part of the Glasgow Computational Biology community. Come along to one of our events!\n\n\nRegular events to share science and have a chat!\nThe community hosts events to chat about cool innovations in computational biology and bioinformatics. We have events across the university at the main campus at Gilmorehill and at various centres at Garscube and then often head to the pub. Come join us!\n\n\n\nThe next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023’s great event."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#events",
+    "href": "index.html#events",
+    "title": "Glasgow Computational Biology Community",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Regular events to share science and have a chat!\nThe community hosts events to chat about cool innovations in computational biology and bioinformatics. We have events across the university at the main campus at Gilmorehill and at various centres at Garscube and then often head to the pub. Come join us!"
+  },
+  {
+    "objectID": "index.html#the-conference",
+    "href": "index.html#the-conference",
+    "title": "Glasgow Computational Biology Community",
+    "section": "",
+    "text": "The next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023’s great event."
+  },
+  {
+    "objectID": "nextEvent.html",
+    "href": "nextEvent.html",
+    "title": "Next Event",
+    "section": "",
+    "text": "Metabolomics\n\n3:30pm on Friday October 27th in SAWB 422/423 (School of Computing Science)\nWe have 3 exciting talks lined up with speakers information below. The talks will be in Room 422/423 of the Sir Alwyn Williams Building (SAWB) in the School of Computing Science. And come along to the pub afterwards!\n\nMike Barrett: Metabolomics in Drug Discovery\nGavin Blackburn: Metabolomics Data Analysis- why it’s not so straightforward\nClement Regnault: Metabolomics: applications in biology"
   }
 ]
