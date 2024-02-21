@@ -1,0 +1,49 @@
+---
+title: "Glasgow University Computational Biology Conference 2023"
+description: "Take part in talks, networking and learning about everything computational biology!"
+date: 01-01-2023
+image: compBio_com_23V2.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+listing:
+  - id: keynotes
+    contents: "../../keynotes/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title]
+    grid-item-align: center
+---
+
+# **Welcome to the Glasgow University Computational Biology Conference 2023**
+
+Come and join us at the ARC on the 3rd and 4th of July 2023
+
+Take part in talks, networking and learning about everything computational biology!
+
+**Abstract submission deadline is the 22nd of May**
+
+# **Our 2023 Keynote Speakers**
+
+::: {#keynotes}
+:::
+
+# Schedule 
+
+```{r, message=F, echo=FALSE, warning=F}
+require(dplyr); require(kableExtra)
+data = read.delim("sched_basic.txt")
+data %>%
+  mutate(Time = paste0(time_start, "-", time_end),
+         Name = paste(First, Last)) %>%
+  select(Time, event, Name, Title) %>%
+kableExtra::kbl(escape = FALSE, align = "rlccc", table.attr = 'class="schedule-table"')  %>%
+  kable_styling() %>%
+  column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  column_spec(3, width = "20%", extra_css = "padding-right: 20px;") %>% 
+ # row_spec(c(4,8,11), background = "lightgrey") %>%
+    kableExtra::pack_rows(index = c("Monday" = 13, "Tuesday" = 13),
+              label_row_css = "border-bottom: 2px solid #000000;") 
+
+
+
+```

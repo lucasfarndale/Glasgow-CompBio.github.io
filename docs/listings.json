@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/conference/2023_conference/index.html",
+    "items": [
+      "/keynotes/catalina.html",
+      "/keynotes/magnus.html"
+    ]
+  },
+  {
+    "listing": "/conference.html",
+    "items": [
+      "/conference/2023_conference/index.html"
+    ]
+  },
+  {
     "listing": "/events.html",
     "items": [
       "/events/202402_mathMod/index.html",

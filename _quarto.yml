@@ -10,6 +10,8 @@ website:
         text: Home
       - href: events.qmd
         text: Monthly Events
+      - href: conference.qmd
+        text: Annual Conference
 
 format:
   html:

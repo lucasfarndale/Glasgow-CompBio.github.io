@@ -1,0 +1,37 @@
+---
+title: "Professor Magnus Rattray"
+image: magnus.jpeg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://research.manchester.ac.uk/en/persons/magnus.rattray
+---
+
+Magnus Rattray is a Professor of Computational & Systems Biology and Director of the Institute for Data Science & Artificial Intelligence of the University of Manchester. He is also a Turing Fellow.
+
+### Biography
+
+**2012 - Present:** Professor of Computational and Systems Biology, Faculty of Life Sciences, University of Manchester
+
+**2010 - 2012:** Professor of Statistical Bioinformatics and Machine Learning, Sheffield Institute for Translational Neuroscience and Department of Computer Science, University of Sheffield
+
+**1998 - 2010:** Lecturer and Senior Lecturer in Department of Computer Science, University of Manchester
+
+**1996 - 1998:** EPSRC Postdoctoral Research Associate, Neural Computing Research Group, Department of Applied Mathematics, Aston University
+
+**1993-1996:** PhD Computer Science, University of Manchester
+
+**1989-1992:** BSc (1st class hons) Mathematics and Physics, University of Manchester
+
+### Research interests
+
+My group works on how to learn models and make inferences given evidence from high-throughput biological datasets. The models that we develop range from mechanistic differential equation models of the cell to more abstract probabilistic latent variable models that can be used uncover interesting structure in high-dimensional data. We are particularly interested in hybrid models that combine aspects of mechanistic and probabilistic models.
+
+Models encode our hypotheses about how biological systems work. We use probabilistic inference to learn the model parameters and to choose between competing models so as to identify the hypotheses best supported by the available experimental evidence. Bayesian inference and non-parametric modelling is a particular focus as this provides a principled framework for dealing with uncertainty in complex systems. We are applying our methods to infer gene regulatory networks from time-series mRNA expression and DNA-protein binding data, to uncover changes in the transcriptome from RNA-Seq datasets, and to develop novel inference algorithms for time-series data analysis and systems biology modelling.
+
+### Overview
+
+Biology has become a data-rich science. Modern high-throughput experimental techniques can make simultaneous measurements of vast numbers of biological molecules and their interactions. These measurements can be taken at different times during some biological process, resulting in time-series data. My research group works on the interpretation of these datasets by building predictive models of biological systems using computer algorithms. We have developed methods to uncover the patterns underlying gene expression changes in time and to uncover the complex network of molecular interactions between DNA and proteins which regulate this process. We are also interested in how biological systems change and adapt over much longer evolutionary time-scales using phylogenetic models.
