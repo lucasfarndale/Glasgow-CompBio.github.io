@@ -1,0 +1,25 @@
+---
+title: "November 2023"
+description: "Epigenetics"
+date: 11-01-2023
+categories: [biology, sequencing] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## What
+
+Kieran Woolcock: ***Introduction to epigenetics***
+
+Moeed Akbar: ***Epigenetic Landscape in soft tissue fibrosis***
+
+Muhammad Nurudeen Ibrahim: ***Molecular Response of Glioblastoma Cell Lines to Treatment with Epigenetic Inhibitors***
+
+## When
+
+November 28th, 3-5pm
+
+## Where
+
+BHF Centre of Research Excellence, 126 University Place, Room C222/C223
+
+When you get to the venue, there is security at the entrance and they will point you out in the right direction. This building is like a maze. 

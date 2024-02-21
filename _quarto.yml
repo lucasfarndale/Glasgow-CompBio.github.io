@@ -8,10 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: nextEvent.qmd
-        text: Next Event
-      - href: previousEvents.qmd
-        text: Previous Events
+      - href: events.qmd
+        text: Monthly Events
 
 format:
   html:
