@@ -1,0 +1,13 @@
+---
+title: "December 2023"
+description: "Christmas quiz!"
+date: 12-01-2023
+categories: [quiz, social] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+To celebrate the end of the year, we'll be having a Christmas Quiz! Hope to see you there!
+
+-   **Where**: seminar rooms 422/423 in the School of Computing Science (Sir Alwyn Williams Building) at 18 Lilybank Gardens.
+
+-   **When**: 4:00 pm on Wednesday 13th December

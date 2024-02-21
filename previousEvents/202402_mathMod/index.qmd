@@ -1,0 +1,23 @@
+---
+title: "February 2024"
+description: "Highlight on mathematical modeling"
+date: 02-01-2024
+categories: [mathematics, modeling] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Mathematical Modelling
+
+Dr John Fozard (Center for Virus Research, UofG) : ***Coarsening dynamics can explain meiotic crossover patterning***.
+
+Dr Xiao Fu (Cancer Research UK Scotland Institute):  ***Integrating computational modelling with experimental systems to study human cancers.***
+
+Dr Raimondo Penta (School of Maths & Stats, UofG): ***Multi scale homogenisation and its application to vascular tumours - an overview***.
+
+-   Where: room 248, Bower Building (Botany Gate, Glasgow, G12 8QQ)
+
+-   When: Tuesday 20th February 2024, 3pm\
+
+Looking forward to seeing you all, 
+
+CompBio organisers

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Glasgow CompBio Community - Glasgow Computational Biology Community</title>
+<title>Glasgow CompBio Community - Previous Events</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -58,7 +61,38 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -81,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -89,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Next Event</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./previousEvents.html" rel="" target="">
+    <a class="nav-link active" href="./previousEvents.html" rel="" target="" aria-current="page">
  <span class="menu-text">Previous Events</span></a>
   </li>  
 </ul>
@@ -104,64 +138,132 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#bringing-glasgows-computational-biology-bioinformatics-community-together" id="toc-bringing-glasgows-computational-biology-bioinformatics-community-together" class="nav-link active" data-scroll-target="#bringing-glasgows-computational-biology-bioinformatics-community-together">Bringing Glasgow’s computational biology &amp; bioinformatics community together</a>
-  <ul class="collapse">
-  <li><a href="#events" id="toc-events" class="nav-link" data-scroll-target="#events">Events</a></li>
-  <li><a href="#the-conference" id="toc-the-conference" class="nav-link" data-scroll-target="#the-conference">The Conference</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="chemistry">chemistry <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mathematics">mathematics <span class="quarto-category-count">(2)</span></div><div class="category" data-category="modeling">modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quiz">quiz <span class="quarto-category-count">(1)</span></div><div class="category" data-category="social">social <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles column-page-left">
-  <div class="about-entity">
-    <img src="UoG.jpeg" class="about-image
-  rounded " style="width: 20em;">
+<main class="content column-page-left" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Glasgow Computational Biology Community</h1>
+<h1 class="title">Previous Events</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://twitter.com/glasgowcompbio" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter</span>
-  </a>
-  <a href="mailto:compbio-conference@glasgow.ac.uk" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-  <a href="https://lists.cent.gla.ac.uk/sympa/info/compbio" class="about-link" rel="" target="">
-    <i class="bi bi-list"></i>
-     <span class="about-link-text">Mailing list</span>
-  </a>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="mathematics,modeling" data-listing-date-sort="1706745600000" data-listing-file-modified-sort="1708525819965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./previousEvents/202402_mathMod/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+February 2024
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mathematics'); return false;">
+mathematics
 </div>
-  </div>
-  <div class="about-contents"><main class="content column-page-left" id="quarto-document-content">
-
-<section id="bringing-glasgows-computational-biology-bioinformatics-community-together" class="level1">
-<h1>Bringing Glasgow’s computational biology &amp; bioinformatics community together</h1>
-<p>If you’re using a computer to solve a biology problem and you’re at the University of Glasgow, you are part of the Glasgow Computational Biology community. Come along to one of our events!</p>
-<section id="events" class="level2">
-<h2 data-anchor-id="events">Events</h2>
-<p>Regular events to share science and have a chat!</p>
-<p>The community hosts events to chat about cool innovations in computational biology and bioinformatics. We have events across the university at the main campus at Gilmorehill and at various centres at Garscube and then often head to the pub. Come join us!</p>
-</section>
-<section id="the-conference" class="level2">
-<h2 data-anchor-id="the-conference">The Conference</h2>
-<p>The next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023’s great event.</p>
-
-
-</section>
-</section>
-</main></div>
+<div class="listing-category" onclick="window.quartoListingCategory('modeling'); return false;">
+modeling
 </div>
- <!-- /main -->
+</div>
+<div class="card-text listing-description">
+Highlight on mathematical modeling
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 1, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="mathematics,chemistry" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1708526033158" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./previousEvents/202401_assembly/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+January 2024
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('mathematics'); return false;">
+mathematics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('chemistry'); return false;">
+chemistry
+</div>
+</div>
+<div class="card-text listing-description">
+Probing Selection and Evolution using Assembly Theory
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Jan 1, 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="quiz,social" data-listing-date-sort="1701388800000" data-listing-file-modified-sort="1708526246960" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="./previousEvents/202312_quiz/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+December 2023
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('quiz'); return false;">
+quiz
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('social'); return false;">
+social
+</div>
+</div>
+<div class="card-text listing-description">
+Christmas quiz!
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Dec 1, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -182,6 +284,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

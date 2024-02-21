@@ -1,0 +1,17 @@
+---
+title: "January 2024"
+description: "Probing Selection and Evolution using Assembly Theory"
+date: 01-01-2024
+categories: [mathematics, chemistry] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+We have a talk lined up by the first author of [Assembly theory explains and quantifies selection and evolution](https://www.nature.com/articles/s41586-023-06600-9 "https://www.nature.com/articles/s41586-023-06600-9"). Abhishek's talk will first give us an overview of the work happening in Cronin's lab before focusing on assembly theory. 
+
+-   **When**: Jan. 25th, 4pm 
+
+-   **Where**: Maths and Stats: 116 Lecture Theatre\
+
+Looking forward to seeing you all,
+
+CompBio organisers
