@@ -1,0 +1,29 @@
+---
+title: "Professor Louise Matthews"
+image: louise.jpeg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://www.gla.ac.uk/schools/bohvm/staff/louisematthews/
+---
+
+Louise Matthews is a Professor of Infections Disease Ecology at the School of Biodiversity, One health & Veterinary Medicine at the University of Glasgow.
+
+# Research in a Nutshell 
+
+My interests lie in the application of quantitative tools to infectious disease data to understand of host-pathogen systems and inform disease control. Current areas of interest include:
+
+-   The role of individual variability (such as superspreading or genetic predisposition) in disease synamics and control
+
+-   The sources of aggregation in host-parasite systems
+
+-   The mathematics of diversity measures
+
+-   Genetic susceptibility and selective breeding for disease control
+
+-   Game theory and control planning
+
+Current projects and applications in these areas include the transmission and control of E. coli O157 in the cattle reservoir; the role of virulence factors in the epidemiology of non-O157 E. coli; the genetic epidemiology of resistance to sea-lice infection in salmon; the impact of selective breeding on MHC diversity; the identification of sources of aggregation in the sheep-nematode system systems; and the epidemiology and ecology of antimicrobial resistance.

@@ -27,7 +27,7 @@ Take part in talks, networking and learning about everything computational biolo
 ::: {#keynotes}
 :::
 
-# Schedule 
+# Schedule
 
 ```{r, message=F, echo=FALSE, warning=F}
 require(dplyr); require(kableExtra)
