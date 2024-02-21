@@ -38,8 +38,8 @@ data %>%
   select(Time, event, Name, Title) %>%
 kableExtra::kbl(escape = FALSE, align = "rlccc", table.attr = 'class="schedule-table"')  %>%
   kable_styling() %>%
-  column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
-  column_spec(3, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  column_spec(1, width = "20%", extra_css = "padding-right: 20px;") %>% 
+  #column_spec(2, width = "20%", extra_css = "padding-right: 20px;") %>% 
  # row_spec(c(4,8,11), background = "lightgrey") %>%
     kableExtra::pack_rows(index = c("Monday" = 13, "Tuesday" = 13),
               label_row_css = "border-bottom: 2px solid #000000;") 
