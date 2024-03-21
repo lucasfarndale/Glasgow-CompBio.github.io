@@ -1,8 +1,72 @@
 ---
-title: "Annual conference"
-listing: 
-  contents: conference # all Quarto docs in the `posts` directory will be included on your listing page
-  type: default # or `default` or `table`; each type has its own set of yaml options to include
-  sort: "date desc" # can also sort on more than one field
-  categories: false # allows you to sort posts by assigned categories 
+title: "Glasgow Computational Biology Conference 2024"
+about:
+  template: jolla
+  image: UoG.jpeg
+  # links:
+  #   - icon: twitter
+  #     text: Twitter
+  #     href: https://twitter.com/glasgowcompbio
+  #   - icon: envelope
+  #     text: Email
+  #     href: mailto:compbio-conference@glasgow.ac.uk
+  #   - icon: list
+  #     text: Mailing list
+  #     href: https://lists.cent.gla.ac.uk/sympa/info/compbio
 ---
+
+Welcome to the Glasgow University Computational Biology Conference 2024. Come and join us at the ARC on the xxth and xxth of September 2024. Take part in talks, networking and learning about everything computational biology!
+
+Abstract submission deadline is the xxth of xxxx
+
+[Sign up here!](https://www.eventbrite.co.uk/e/university-of-glasgow-computational-biology-conference-july-3-and-4-2023-tickets-607213862007){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Follow this link to register for the conference and/or submit an abstract"}
+
+# Our 2024 Keynote Speakers
+
+Keynote 1                        | Keynote 2                       | Keynote 3
+:-------------------------------:|:-------------------------------:|:-------------------------------:
+![Image](keynotes\catalina.png)  | ![Image](keynotes\catalina.png)  | ![Image](keynotes\catalina.png)
+First keynote talk title | Second keynote talk title | Third keynote talk title
+[Learn More](keynotes\catalina.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Learn more about Keynote 1's research"} | [Learn More](keynotes\catalina.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Learn more about Keynote 2's research"} | [Learn More](keynotes\catalina.qmd){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Learn more about Keynote 3's research"}
+
+[Click here to find out more about our provisional programme of talks](conference\2024_conference\programme.qmd){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="See our programme of talks for 2024"}
+
+
+![Join us in the Mazumdar-Shaw Advanced Research Centre (ARC)](images\university-of-glasgow-arc-advanced-research-centre-g080622-3.jpg)
+
+**An opportunity to bring together Computational Biologists from across the University and further afield**
+
+Computational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.
+
+::: {.grid}
+
+::: {.g-col-8}
+
+## Our Goal
+
+The University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.
+
+If your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research.
+:::
+
+::: {.g-col-4}
+## Topics of Interest
+
+* Omics
+* Systems Biology
+* Population Genetics
+* Medical Imaging
+* Computational approaches to public health and clinical data
+:::
+
+:::
+
+# Transport to the Conference
+There are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.
+
+[Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
+
+# Previous Conferences
+
+[Glasgow Computational Biology Conference 2023](https://cbc.dcs.gla.ac.uk/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}
+[Glasgow Computational Biology Conferences 2021/22](https://cbc.dcs.gla.ac.uk/previousconference.html){.btn .btn-info .btn role="button" data-toggle="tooltip" title="View details of our 2021 & 2022 conferences"}
