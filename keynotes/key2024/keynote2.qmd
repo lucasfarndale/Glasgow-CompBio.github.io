@@ -1,17 +1,25 @@
 ---
-title: "Prof Keynote Two"
-image: keynote2.png
+title: "Dr Rona Strawbridge"
+image: Rona_Strawbridge.jpg
 toc: false
 about:
   template: jolla
   links:
     - icon: link
       text: website
-      href: https://vallejosgroup.github.io
+      href: https://www.gla.ac.uk/schools/healthwellbeing/staff/ronastrawbridge/
 ---
 
-This person is thins.
+Dr Rona Strawbridge is a Senior Lecturer in the School of Health & Wellbeing at the University of Glasgow.
 
 # Research
 
-Information
+People with serious mental illness (such as schizophrenia, bipolar disorder and major depressive disorder) have an increased incidence of cardiometabolic disease (such as obesity, type 2 diabetes and heart disease) compared to the general population, however the reasons for this are poorly understood. It is possible that there are common biological mechanisms for both mental and physical traits. If so, some medications currently used for cardiometabolic disorders could be repurposed to improve mental health and reduce long-term complications in those with serious mental illness.
+
+I aim to investigate whether common biological mechanisms underlie physical and mental illness by:
+
+-   Exploring the genetic basis of serious mental illness, using cross-diagnostic traits associated with psychiatric diseases (following the research domain criteria (RDoC) approach)
+
+-   Assessing the impact of genetic susceptibility to serious mental illness on cardiometabolic traits.
+
+-   Using genetics to improve prediction of risk, severity and outcomes in serious mental illness.

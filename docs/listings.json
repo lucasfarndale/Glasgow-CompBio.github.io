@@ -10,6 +10,7 @@
   {
     "listing": "/events.html",
     "items": [
+      "/events/202404_SoftEngine/index.html",
       "/events/202402_mathMod/index.html",
       "/events/202401_assembly/index.html",
       "/events/202312_quiz/index.html",
@@ -19,9 +20,9 @@
   {
     "listing": "/conference/2024_conference/index.html",
     "items": [
+      "/keynotes/key2024/keynote3.html",
       "/keynotes/key2024/keynote1.html",
-      "/keynotes/key2024/keynote2.html",
-      "/keynotes/key2024/keynote3.html"
+      "/keynotes/key2024/keynote2.html"
     ]
   },
   {

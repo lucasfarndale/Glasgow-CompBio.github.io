@@ -14,6 +14,7 @@ listing:
 ---
 
 # **Welcome to the Glasgow University Computational Biology Conference 2024**
+
 Take part in talks, networking and learning about everything computational biology!
 
 **When:** 5th & 6th September.
@@ -27,26 +28,26 @@ Take part in talks, networking and learning about everything computational biolo
 ::: {#keynotes}
 :::
 
-[Click here to find out more about our provisional programme of talks]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
+[Programme of talks for 2024 TBD]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
 
 ## Topics of Interest
 
-* Omics
-* Systems Biology
-* Population Genetics
-* Medical Imaging
-* Computational approaches to public health and clinical data
+-   Omics
+-   Systems Biology
+-   Population Genetics
+-   Medical Imaging
+-   Computational approaches to public health and clinical data
 
 # **Location**
+
 ![Join us in the Mazumdar-Shaw Advanced Research Centre (ARC)](arc_image.jpg)
 
 ## Transport to the Conference
+
 There are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.
 
 [Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
 
 # Previous Conferences
 
-[Glasgow Computational Biology Conference 2023](https://cbc.dcs.gla.ac.uk/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}
-[Glasgow Computational Biology Conferences 2021/22](https://cbc.dcs.gla.ac.uk/previousconference.html){.btn .btn-info .btn role="button" data-toggle="tooltip" title="View details of our 2021 & 2022 conferences"}
-
+[Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"} [Glasgow Computational Biology Conferences 2021/22](https://cbc.dcs.gla.ac.uk/previousconference.html){.btn .btn-info .btn role="button" data-toggle="tooltip" title="View details of our 2021 & 2022 conferences"}
