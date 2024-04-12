@@ -1,0 +1,18 @@
+---
+title: "March 2024"
+description: "Microscopy"
+date: 03-01-2024
+image: image.jpeg
+categories: [microscopy] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Microscopy
+
+Our March session is dedicated to microscopy, and we have 3 exciting talks lined up. This time we are off to the Garscube campus and the Lecture Theatre of the [**CRUK Scotland Institute**]{.underline} (previously known as the Beatson Institute) on [**the 20^th^ of March, starting at 3pm**]{.underline}.
+
+-   **Claire Mitchell (CRUK Scotland Institute)**  *Light microscopy for computational biologists*
+
+-   **Ryan Corbyn (CRUK Scotland Institute)** *Using deep-learning tools to track cell interactions*
+
+-   **Joe Knapper (University of Glasgow)** *The OpenFlexure Microscope: Open-source, closed-loop automated microscopy for anyone*
