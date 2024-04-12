@@ -2,6 +2,7 @@
 title: "January 2024"
 description: "Probing Selection and Evolution using Assembly Theory"
 date: 01-01-2024
+image: image.png
 categories: [mathematics, chemistry] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---

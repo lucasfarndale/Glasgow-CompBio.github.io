@@ -2,6 +2,7 @@
 title: "December 2023"
 description: "Christmas quiz!"
 date: 12-01-2023
+image: image.jpg
 categories: [quiz, social] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
