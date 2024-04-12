@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/conference/2023_conference/index.html",
+    "items": [
+      "/keynotes/key2023/catalina.html",
+      "/keynotes/key2023/louise.html",
+      "/keynotes/key2023/magnus.html"
+    ]
+  },
+  {
     "listing": "/events.html",
     "items": [
       "/events/202402_mathMod/index.html",
@@ -9,17 +17,18 @@
     ]
   },
   {
-    "listing": "/conference.html",
+    "listing": "/conference/2024_conference/index.html",
     "items": [
-      "/conference/2023_conference/index.html"
+      "/keynotes/key2024/keynote1.html",
+      "/keynotes/key2024/keynote2.html",
+      "/keynotes/key2024/keynote3.html"
     ]
   },
   {
-    "listing": "/conference/2023_conference/index.html",
+    "listing": "/conference.html",
     "items": [
-      "/keynotes/catalina.html",
-      "/keynotes/louise.html",
-      "/keynotes/magnus.html"
+      "/conference/2024_conference/index.html",
+      "/conference/2023_conference/index.html"
     ]
   }
 ]

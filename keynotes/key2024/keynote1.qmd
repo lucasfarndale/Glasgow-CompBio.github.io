@@ -1,0 +1,17 @@
+---
+title: "Dr Keynote One"
+image: keynote1.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://vallejosgroup.github.io
+---
+
+This person is thins.
+
+# Research
+
+Information

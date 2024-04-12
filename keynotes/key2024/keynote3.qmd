@@ -1,0 +1,17 @@
+---
+title: "Prof Keynote the Third"
+image: keynote3.png
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://vallejosgroup.github.io
+---
+
+This person is thins.
+
+# Research
+
+Information

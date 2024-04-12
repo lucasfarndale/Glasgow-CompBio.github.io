@@ -27,4 +27,21 @@ The community hosts events to chat about cool innovations in computational biolo
 
 ## The Conference
 
-The next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023's great event.
+### Overview 
+**An opportunity to bring together Computational Biologists from across the University and further afield**
+
+Computational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.
+
+#### Topics of Interest
+
+* Omics
+* Systems Biology
+* Population Genetics
+* Medical Imaging
+* Computational approaches to public health and clinical data
+
+#### Our Goal
+
+The University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.
+
+If your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research.
