@@ -23,22 +23,36 @@ Take part in talks, networking and learning about everything computational biolo
 
 **Abstract submission deadline:** TBD
 
-# **Our 2024 Keynote Speakers**
+## What to expect:
+
+-   **Two specialist sessions:**
+    -   Is spatial transcriptomics worth the hype?
+    -   TBD
+-   **Scientific talks:**
+    -   Three amazing keynote speakers
+    -   Abstracts selected from your community on various topics within bioinformatics and computational biology
+-   **Networking:**
+    -   Coffee breaks long enough to have some great discussions!
+    -   Poster session
+
+## **Our 2024 Keynote Speakers**
 
 ::: {#keynotes}
 :::
 
 [Programme of talks for 2024 TBD]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
 
-## Topics of Interest
+# Practical information
 
--   Omics
--   Systems Biology
--   Population Genetics
--   Medical Imaging
--   Computational approaches to public health and clinical data
+## **Location**
 
-# **Location**
+**Advanced Research Centre (ARC), University of Glasgow**
+
+-   **Telephone:** +44 (0)141 330 4170
+
+-   **Address:** The Mazumdar-Shaw Advanced Research Centre, 11 Chapel Lane, G11 6EW
+
+-   [Find on Google Maps](https://goo.gl/maps/DbjyvBYBZwK4e5JG7)
 
 ![Join us in the Mazumdar-Shaw Advanced Research Centre (ARC)](arc_image.jpg)
 
@@ -50,4 +64,4 @@ There are a number of ways to get to the conference site either by walking, cycl
 
 # Previous Conferences
 
-[Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"} [Glasgow Computational Biology Conferences 2021/22](https://cbc.dcs.gla.ac.uk/previousconference.html){.btn .btn-info .btn role="button" data-toggle="tooltip" title="View details of our 2021 & 2022 conferences"}
+[Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}
