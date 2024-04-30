@@ -1,145 +1,5 @@
 [
   {
-    "objectID": "nextEvent.html",
-    "href": "nextEvent.html",
-    "title": "Next Event",
-    "section": "",
-    "text": "Metabolomics\n\n3:30pm on Friday October 27th in SAWB 422/423 (School of Computing Science)\nWe have 3 exciting talks lined up with speakers information below. The talks will be in Room 422/423 of the Sir Alwyn Williams Building (SAWB) in the School of Computing Science. And come along to the pub afterwards!\n\nMike Barrett: Metabolomics in Drug Discovery\nGavin Blackburn: Metabolomics Data Analysis- why it’s not so straightforward\nClement Regnault: Metabolomics: applications in biology"
-  },
-  {
-    "objectID": "conference/2023_conference/index.html",
-    "href": "conference/2023_conference/index.html",
-    "title": "Glasgow University Computational Biology Conference 2023",
-    "section": "",
-    "text": "Welcome to the Glasgow University Computational Biology Conference 2023\nCome and join us at the ARC on the 3rd and 4th of July 2023\nTake part in talks, networking and learning about everything computational biology!\nAbstract submission deadline is the 22nd of May\n\n\nOur 2023 Keynote Speakers\n\n\n\n\n\n\n\n\n\n\nDr Catalina Vallejos\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor Louise Matthews\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor Magnus Rattray\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nSchedule\n\n\n\n\n\nTime\nevent\nName\nTitle\n\n\n\n\nMonday\n\n\n09:00-09:30\nRegistration\n\n\n\n\n09:30-09:45\nIntroduction\n\nIntroduction from Professor Carl Goodyear, Professor of Translational Immunology, Director of Innovation, Engagement and Enterprise\n\n\n09:45-10:30\nKeynote 1\nLouise Matthews\nReproducible agent-based models for public health policy\n\n\n10:30-11:00\nCoffee\n\n\n\n\n11:00-11:30\nInvited talk\nSudhir Malla\nPathway-derived molecular subtyping unveils a subtle shift in proliferative-to-differentiated homeostasis associated with outcome in colorectal cancer\n\n\n11:30-12:00\nInvited talk\nJoana Carvalheiro\nEEG-informed high resolution imaging of human midbrain activity during reward and punishment learning\n\n\n12:00-12:30\nInvited talk\nDidier Devaurs\nImproving the coverage of deep mutational scanning using machine learning\n\n\n12:30-01:30\nLunch\n\n\n\n\n01:30-02:15\nKeynote 2\nMagnus Rattray\nProbabilistic modelling of transcription dynamics in whole embryos and single cells\n\n\n02:15-03:00\nLightning talks\n\n\n\n\n03:00-03:30\nCoffee\n\n\n\n\n03:30-04:00\nInvited talk\nSarwah Koutaiba Al-Khalidi\nGrab Your Partners: The Choreography of an Effective T-cell Response\n\n\n04:00-06:00\nPosters + drinks\n\n\n\n\nTuesday\n\n\n09:30-10:15\nKeynote 3\nCatalina Vallejos\nUsing routine healthcare data to predict future health\n\n\n10:15-10:30\nComputational Biology Discussion\n\n\n\n\n10:30-11:00\nCoffee\n\n\n\n\n11:00-11:30\nInvited talk\nLanxin Li\nBayesian Group Lasso Regression for Genome-wide Association  Studies\n\n\n11:30-12:00\nInvited talk\nLucy Martin\nMachine learning to recognise senescence in glioblastoma\n\n\n12:00-12:30\nInvited talk\nLucas Farndale\nSuper Vision without supervision: Leveraging Self-Supervised Multimodal Integration for Enhanced Medical Imaging\n\n\n12:30-01:30\nLunch\n\n\n\n\n01:30-02:30\nData Reproducibility Panel Discussion\n\n\n\n\n02:30-03:00\nInvited talk\nJay Mackenzie\nA graph theoretic exploration of coronary vascular trees\n\n\n03:00-03:30\nCoffee\n\n\n\n\n03:30-04:00\nInvited talk\nAnastasia Ignatieva\nReconstructing genealogies from genetic sequencing data\n\n\n04:00-04:30\nInvited talk\nJoe Wandy\nOmics Design of Basket Trials in Precision Medicine\n\n\n04:30-05:00\nClose"
-  },
-  {
-    "objectID": "events.html",
-    "href": "events.html",
-    "title": "Monthly Events",
-    "section": "",
-    "text": "April 2024\n\n\n\nsoftware\n\n\ninfrastructure\n\n\n\nInsights into the role of software engineering in research\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarch 2024\n\n\n\nmicroscopy\n\n\n\nMicroscopy\n\n\n\n\n\n\nMar 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary 2024\n\n\n\nmathematics\n\n\nmodeling\n\n\n\nHighlight on mathematical modeling\n\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2024\n\n\n\nmathematics\n\n\nchemistry\n\n\n\nProbing Selection and Evolution using Assembly Theory\n\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecember 2023\n\n\n\nquiz\n\n\nsocial\n\n\n\nChristmas quiz!\n\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNovember 2023\n\n\n\nbiology\n\n\nsequencing\n\n\n\nEpigenetics\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/202403_microscopy/index.html",
-    "href": "events/202403_microscopy/index.html",
-    "title": "March 2024",
-    "section": "",
-    "text": "Our March session is dedicated to microscopy, and we have 3 exciting talks lined up. This time we are off to the Garscube campus and the Lecture Theatre of the CRUK Scotland Institute (previously known as the Beatson Institute) on the 20th of March, starting at 3pm.\n\nClaire Mitchell (CRUK Scotland Institute)  Light microscopy for computational biologists\nRyan Corbyn (CRUK Scotland Institute) Using deep-learning tools to track cell interactions\nJoe Knapper (University of Glasgow) The OpenFlexure Microscope: Open-source, closed-loop automated microscopy for anyone"
-  },
-  {
-    "objectID": "events/202403_microscopy/index.html#microscopy",
-    "href": "events/202403_microscopy/index.html#microscopy",
-    "title": "March 2024",
-    "section": "",
-    "text": "Our March session is dedicated to microscopy, and we have 3 exciting talks lined up. This time we are off to the Garscube campus and the Lecture Theatre of the CRUK Scotland Institute (previously known as the Beatson Institute) on the 20th of March, starting at 3pm.\n\nClaire Mitchell (CRUK Scotland Institute)  Light microscopy for computational biologists\nRyan Corbyn (CRUK Scotland Institute) Using deep-learning tools to track cell interactions\nJoe Knapper (University of Glasgow) The OpenFlexure Microscope: Open-source, closed-loop automated microscopy for anyone"
-  },
-  {
-    "objectID": "events/202312_quiz/index.html",
-    "href": "events/202312_quiz/index.html",
-    "title": "December 2023",
-    "section": "",
-    "text": "To celebrate the end of the year, we’ll be having a Christmas Quiz! Hope to see you there!\n\nWhere: seminar rooms 422/423 in the School of Computing Science (Sir Alwyn Williams Building) at 18 Lilybank Gardens.\nWhen: 4:00 pm on Wednesday 13th December"
-  },
-  {
-    "objectID": "events/202404_SoftEngine/index.html",
-    "href": "events/202404_SoftEngine/index.html",
-    "title": "April 2024",
-    "section": "",
-    "text": "We are pleased to confirm the details of our April meeting on research software engineering.\nApril 25th, 3pm, 422/423 School of Computing Science, Sir Alwyn Williams Building.\nWith contributions from:\n\nMayank Sikarwar: Role of Research Software Engineering in Cancer Biology\nKathryn Crouch: Strategies for Long Term Sustenance of a Biological Software Resource\nIain Barras: MVLS RSE: a central RSE team in MVLS\nWilliam Haese-Hill: The challenges of RSE in the field of Bioinformatics\n\nLooking forward to seeing you all!"
-  },
-  {
-    "objectID": "events/202404_SoftEngine/index.html#research-software-engineering",
-    "href": "events/202404_SoftEngine/index.html#research-software-engineering",
-    "title": "April 2024",
-    "section": "",
-    "text": "We are pleased to confirm the details of our April meeting on research software engineering.\nApril 25th, 3pm, 422/423 School of Computing Science, Sir Alwyn Williams Building.\nWith contributions from:\n\nMayank Sikarwar: Role of Research Software Engineering in Cancer Biology\nKathryn Crouch: Strategies for Long Term Sustenance of a Biological Software Resource\nIain Barras: MVLS RSE: a central RSE team in MVLS\nWilliam Haese-Hill: The challenges of RSE in the field of Bioinformatics\n\nLooking forward to seeing you all!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Glasgow Computational Biology Community",
-    "section": "",
-    "text": "Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you’re utilizing computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don’t miss out – come along and be a part of our dynamic community!\n\n\nEngage in lively discussions and exchange ideas at our regular science-sharing events!\nOur community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.\n\n\n\n\n\nAn opportunity to bring together Computational Biologists from across the University and further afield\nComputational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.\nGlasgow Computational Biology Conference 2024\n\n\n\nOmics\nSystems Biology\nPopulation Genetics\nMedical Imaging\nComputational approaches to public health and clinical data\n\n\n\n\nThe University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.\nIf your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research."
-  },
-  {
-    "objectID": "index.html#events",
-    "href": "index.html#events",
-    "title": "Glasgow Computational Biology Community",
-    "section": "",
-    "text": "Engage in lively discussions and exchange ideas at our regular science-sharing events!\nOur community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub."
-  },
-  {
-    "objectID": "index.html#the-conference",
-    "href": "index.html#the-conference",
-    "title": "Glasgow Computational Biology Community",
-    "section": "",
-    "text": "An opportunity to bring together Computational Biologists from across the University and further afield\nComputational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.\nGlasgow Computational Biology Conference 2024\n\n\n\nOmics\nSystems Biology\nPopulation Genetics\nMedical Imaging\nComputational approaches to public health and clinical data\n\n\n\n\nThe University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.\nIf your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research."
-  },
-  {
-    "objectID": "keynotes/key2024/keynote1.html",
-    "href": "keynotes/key2024/keynote1.html",
-    "title": "Dr Philip Dunne",
-    "section": "",
-    "text": "Dr Dunne is currently a joint appointment as a Reader in Molecular Pathology within the Patrick G. Johnston Centre for Cancer Research (PGJCCR), Queen’s University Belfast and a Group Leader at the CRUK Scotland Institute in Glasgow.\nMolecular Pathology and Tumour Signalling in Early Disseminating Colorectal Cancer (CRC)\nCRC is the third most commonly diagnosed cancer in the world and is the second highest cause of cancer-related death in Europe. This is mainly due to the ineffectiveness of current chemotherapy treatments for late stage and advanced metastatic disease. Despite advances in our understanding of the biology of these tumours, there have been disappointingly few advances in CRC therapy in the last 20 years. Recent work has highlighted the importance of the chemical messages that arise from cells that support the tumour (tumour microenvironment), yet current understanding of CRC is based largely on the epithelial tumour cells themselves. The Molecular Pathology Research Group is focused on investigating mechanisms underlying disease progression in CRC, with a particular interest in understanding the crosstalk between tumour cells and the tumour microenvironment associated with early dissemination of tumour cells. The research programme also includes development of molecular subtypes, using signalling associated with intrinsic (epithelial) and extrinsic (stromal and immune) components of the tumour."
-  },
-  {
-    "objectID": "keynotes/key2023/louise.html",
-    "href": "keynotes/key2023/louise.html",
-    "title": "Professor Louise Matthews",
-    "section": "",
-    "text": "Louise Matthews is a Professor of Infections Disease Ecology at the School of Biodiversity, One health & Veterinary Medicine at the University of Glasgow.\n\nResearch in a Nutshell \nMy interests lie in the application of quantitative tools to infectious disease data to understand of host-pathogen systems and inform disease control. Current areas of interest include:\n\nThe role of individual variability (such as superspreading or genetic predisposition) in disease synamics and control\nThe sources of aggregation in host-parasite systems\nThe mathematics of diversity measures\nGenetic susceptibility and selective breeding for disease control\nGame theory and control planning\n\nCurrent projects and applications in these areas include the transmission and control of E. coli O157 in the cattle reservoir; the role of virulence factors in the epidemiology of non-O157 E. coli; the genetic epidemiology of resistance to sea-lice infection in salmon; the impact of selective breeding on MHC diversity; the identification of sources of aggregation in the sheep-nematode system systems; and the epidemiology and ecology of antimicrobial resistance."
-  },
-  {
-    "objectID": "keynotes/key2023/catalina.html",
-    "href": "keynotes/key2023/catalina.html",
-    "title": "Dr Catalina Vallejos",
-    "section": "",
-    "text": "Dr Catalina Vallejos is a Group Leader at the MRC Human Genetics Unit and a Turing Fellow.\n\nResearch in a Nutshell \nWhile biomedical data sometimes classifies as “big data” (where the number of samples and/or variables is large), complexity is its most prominent feature. This arises from a combination of different sources of heterogeneity: heterogeneity across individuals in a population (e.g. response to treatment), heterogeneity in terms of the type of data we collect (e.g. health records & genomics) and heterogeneity that is introduced by the data collection process (e.g. measurement error).\nWe focus on the development of novel statistical methodology to address and study these sources of heterogeneity. This is a highly multidisciplinary task: from the understanding of complex biomedical problems and technologies, to the development of new methodology and the implementation of open-source analysis tools. Our current research focuses on two areas of application. Firstly, single-cell RNA-sequencing, a cutting-edge experimental technique that allows genome-wide quantification of gene expression on a cell-by-cell basis. Secondly, electronic health records research, to develop predictive models based on observational data that is routinely collected by health providers (e.g. NHS). Developing computational tools that can make full advantage of the rich information provided by these data sources is ought to improve our understanding of health and disease, playing an important role in precision medicine initiatives."
-  },
-  {
-    "objectID": "keynotes/key2023/magnus.html",
-    "href": "keynotes/key2023/magnus.html",
-    "title": "Professor Magnus Rattray",
-    "section": "",
-    "text": "Magnus Rattray is a Professor of Computational & Systems Biology and Director of the Institute for Data Science & Artificial Intelligence of the University of Manchester. He is also a Turing Fellow.\n\nBiography\n2012 - Present: Professor of Computational and Systems Biology, Faculty of Life Sciences, University of Manchester\n2010 - 2012: Professor of Statistical Bioinformatics and Machine Learning, Sheffield Institute for Translational Neuroscience and Department of Computer Science, University of Sheffield\n1998 - 2010: Lecturer and Senior Lecturer in Department of Computer Science, University of Manchester\n1996 - 1998: EPSRC Postdoctoral Research Associate, Neural Computing Research Group, Department of Applied Mathematics, Aston University\n1993-1996: PhD Computer Science, University of Manchester\n1989-1992: BSc (1st class hons) Mathematics and Physics, University of Manchester\n\n\nResearch interests\nMy group works on how to learn models and make inferences given evidence from high-throughput biological datasets. The models that we develop range from mechanistic differential equation models of the cell to more abstract probabilistic latent variable models that can be used uncover interesting structure in high-dimensional data. We are particularly interested in hybrid models that combine aspects of mechanistic and probabilistic models.\nModels encode our hypotheses about how biological systems work. We use probabilistic inference to learn the model parameters and to choose between competing models so as to identify the hypotheses best supported by the available experimental evidence. Bayesian inference and non-parametric modelling is a particular focus as this provides a principled framework for dealing with uncertainty in complex systems. We are applying our methods to infer gene regulatory networks from time-series mRNA expression and DNA-protein binding data, to uncover changes in the transcriptome from RNA-Seq datasets, and to develop novel inference algorithms for time-series data analysis and systems biology modelling.\n\n\nOverview\nBiology has become a data-rich science. Modern high-throughput experimental techniques can make simultaneous measurements of vast numbers of biological molecules and their interactions. These measurements can be taken at different times during some biological process, resulting in time-series data. My research group works on the interpretation of these datasets by building predictive models of biological systems using computer algorithms. We have developed methods to uncover the patterns underlying gene expression changes in time and to uncover the complex network of molecular interactions between DNA and proteins which regulate this process. We are also interested in how biological systems change and adapt over much longer evolutionary time-scales using phylogenetic models."
-  },
-  {
-    "objectID": "keynotes/key2024/keynote3.html",
-    "href": "keynotes/key2024/keynote3.html",
-    "title": "Dr Paul Kirk",
-    "section": "",
-    "text": "Dr Paul Kirk is a Group Leader at the MRC Biostats Unit in the University of Cambridge\n\nResearch Interests\nI have interests in Bayesian methods for unsupervised genomic dataset integration, and many broad aspects of statistical and mathematical modelling in biology (parameter inference for mathematical models, network inference, modelling signalling pathways, experimental design and model choice)."
-  },
-  {
-    "objectID": "keynotes/key2024/keynote2.html",
-    "href": "keynotes/key2024/keynote2.html",
-    "title": "Dr Rona Strawbridge",
-    "section": "",
-    "text": "Dr Rona Strawbridge is a Senior Lecturer in the School of Health & Wellbeing at the University of Glasgow.\n\nResearch\nPeople with serious mental illness (such as schizophrenia, bipolar disorder and major depressive disorder) have an increased incidence of cardiometabolic disease (such as obesity, type 2 diabetes and heart disease) compared to the general population, however the reasons for this are poorly understood. It is possible that there are common biological mechanisms for both mental and physical traits. If so, some medications currently used for cardiometabolic disorders could be repurposed to improve mental health and reduce long-term complications in those with serious mental illness.\nI aim to investigate whether common biological mechanisms underlie physical and mental illness by:\n\nExploring the genetic basis of serious mental illness, using cross-diagnostic traits associated with psychiatric diseases (following the research domain criteria (RDoC) approach)\nAssessing the impact of genetic susceptibility to serious mental illness on cardiometabolic traits.\nUsing genetics to improve prediction of risk, severity and outcomes in serious mental illness."
-  },
-  {
-    "objectID": "events/202401_assembly/index.html",
-    "href": "events/202401_assembly/index.html",
-    "title": "January 2024",
-    "section": "",
-    "text": "We have a talk lined up by the first author of Assembly theory explains and quantifies selection and evolution. Abhishek’s talk will first give us an overview of the work happening in Cronin’s lab before focusing on assembly theory. \n\nWhen: Jan. 25th, 4pm \nWhere: Maths and Stats: 116 Lecture Theatre\n\n\nLooking forward to seeing you all,\nCompBio organisers"
-  },
-  {
-    "objectID": "events/202402_mathMod/index.html",
-    "href": "events/202402_mathMod/index.html",
-    "title": "February 2024",
-    "section": "",
-    "text": "Dr John Fozard (Center for Virus Research, UofG) : Coarsening dynamics can explain meiotic crossover patterning.\nDr Xiao Fu (Cancer Research UK Scotland Institute):  Integrating computational modelling with experimental systems to study human cancers.\nDr Raimondo Penta (School of Maths & Stats, UofG): Multi scale homogenisation and its application to vascular tumours - an overview.\n\nWhere: room 248, Bower Building (Botany Gate, Glasgow, G12 8QQ)\nWhen: Tuesday 20th February 2024, 3pm\n\n\nLooking forward to seeing you all, \nCompBio organisers"
-  },
-  {
-    "objectID": "events/202402_mathMod/index.html#mathematical-modelling",
-    "href": "events/202402_mathMod/index.html#mathematical-modelling",
-    "title": "February 2024",
-    "section": "",
-    "text": "Dr John Fozard (Center for Virus Research, UofG) : Coarsening dynamics can explain meiotic crossover patterning.\nDr Xiao Fu (Cancer Research UK Scotland Institute):  Integrating computational modelling with experimental systems to study human cancers.\nDr Raimondo Penta (School of Maths & Stats, UofG): Multi scale homogenisation and its application to vascular tumours - an overview.\n\nWhere: room 248, Bower Building (Botany Gate, Glasgow, G12 8QQ)\nWhen: Tuesday 20th February 2024, 3pm\n\n\nLooking forward to seeing you all, \nCompBio organisers"
-  },
-  {
     "objectID": "events/202311_epigen/index.html",
     "href": "events/202311_epigen/index.html",
     "title": "November 2023",
@@ -168,32 +28,74 @@
     "text": "Where\nBHF Centre of Research Excellence, 126 University Place, Room C222/C223\nWhen you get to the venue, there is security at the entrance and they will point you out in the right direction. This building is like a maze."
   },
   {
+    "objectID": "events/202402_mathMod/index.html",
+    "href": "events/202402_mathMod/index.html",
+    "title": "February 2024",
+    "section": "",
+    "text": "Dr John Fozard (Center for Virus Research, UofG) : Coarsening dynamics can explain meiotic crossover patterning.\nDr Xiao Fu (Cancer Research UK Scotland Institute):  Integrating computational modelling with experimental systems to study human cancers.\nDr Raimondo Penta (School of Maths & Stats, UofG): Multi scale homogenisation and its application to vascular tumours - an overview.\n\nWhere: room 248, Bower Building (Botany Gate, Glasgow, G12 8QQ)\nWhen: Tuesday 20th February 2024, 3pm\n\n\nLooking forward to seeing you all, \nCompBio organisers"
+  },
+  {
+    "objectID": "events/202402_mathMod/index.html#mathematical-modelling",
+    "href": "events/202402_mathMod/index.html#mathematical-modelling",
+    "title": "February 2024",
+    "section": "",
+    "text": "Dr John Fozard (Center for Virus Research, UofG) : Coarsening dynamics can explain meiotic crossover patterning.\nDr Xiao Fu (Cancer Research UK Scotland Institute):  Integrating computational modelling with experimental systems to study human cancers.\nDr Raimondo Penta (School of Maths & Stats, UofG): Multi scale homogenisation and its application to vascular tumours - an overview.\n\nWhere: room 248, Bower Building (Botany Gate, Glasgow, G12 8QQ)\nWhen: Tuesday 20th February 2024, 3pm\n\n\nLooking forward to seeing you all, \nCompBio organisers"
+  },
+  {
+    "objectID": "events/202312_quiz/index.html",
+    "href": "events/202312_quiz/index.html",
+    "title": "December 2023",
+    "section": "",
+    "text": "To celebrate the end of the year, we’ll be having a Christmas Quiz! Hope to see you there!\n\nWhere: seminar rooms 422/423 in the School of Computing Science (Sir Alwyn Williams Building) at 18 Lilybank Gardens.\nWhen: 4:00 pm on Wednesday 13th December"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Glasgow Computational Biology Community",
+    "section": "",
+    "text": "Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you’re utilizing computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don’t miss out – come along and be a part of our dynamic community!\n\n\nEngage in lively discussions and exchange ideas at our regular science-sharing events!\nOur community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.\n\n\n\n\n\nAn opportunity to bring together Computational Biologists from across the University and further afield\nComputational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.\nGlasgow Computational Biology Conference 2024\n\n\n\nOmics\nSystems Biology\nPopulation Genetics\nMedical Imaging\nComputational approaches to public health and clinical data\n\n\n\n\nThe University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.\nIf your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research."
+  },
+  {
+    "objectID": "index.html#events",
+    "href": "index.html#events",
+    "title": "Glasgow Computational Biology Community",
+    "section": "",
+    "text": "Engage in lively discussions and exchange ideas at our regular science-sharing events!\nOur community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub."
+  },
+  {
+    "objectID": "index.html#the-conference",
+    "href": "index.html#the-conference",
+    "title": "Glasgow Computational Biology Community",
+    "section": "",
+    "text": "An opportunity to bring together Computational Biologists from across the University and further afield\nComputational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.\nGlasgow Computational Biology Conference 2024\n\n\n\nOmics\nSystems Biology\nPopulation Genetics\nMedical Imaging\nComputational approaches to public health and clinical data\n\n\n\n\nThe University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.\nIf your research area is not covered by the list above but it’s still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research."
+  },
+  {
+    "objectID": "keynotes/key2023/catalina.html",
+    "href": "keynotes/key2023/catalina.html",
+    "title": "Dr Catalina Vallejos",
+    "section": "",
+    "text": "Dr Catalina Vallejos is a Group Leader at the MRC Human Genetics Unit and a Turing Fellow.\n\nResearch in a Nutshell \nWhile biomedical data sometimes classifies as “big data” (where the number of samples and/or variables is large), complexity is its most prominent feature. This arises from a combination of different sources of heterogeneity: heterogeneity across individuals in a population (e.g. response to treatment), heterogeneity in terms of the type of data we collect (e.g. health records & genomics) and heterogeneity that is introduced by the data collection process (e.g. measurement error).\nWe focus on the development of novel statistical methodology to address and study these sources of heterogeneity. This is a highly multidisciplinary task: from the understanding of complex biomedical problems and technologies, to the development of new methodology and the implementation of open-source analysis tools. Our current research focuses on two areas of application. Firstly, single-cell RNA-sequencing, a cutting-edge experimental technique that allows genome-wide quantification of gene expression on a cell-by-cell basis. Secondly, electronic health records research, to develop predictive models based on observational data that is routinely collected by health providers (e.g. NHS). Developing computational tools that can make full advantage of the rich information provided by these data sources is ought to improve our understanding of health and disease, playing an important role in precision medicine initiatives."
+  },
+  {
+    "objectID": "keynotes/key2024/keynote1.html",
+    "href": "keynotes/key2024/keynote1.html",
+    "title": "Dr Philip Dunne",
+    "section": "",
+    "text": "Dr Dunne is currently a joint appointment as a Reader in Molecular Pathology within the Patrick G. Johnston Centre for Cancer Research (PGJCCR), Queen’s University Belfast and a Group Leader at the CRUK Scotland Institute in Glasgow.\nMolecular Pathology and Tumour Signalling in Early Disseminating Colorectal Cancer (CRC)\nCRC is the third most commonly diagnosed cancer in the world and is the second highest cause of cancer-related death in Europe. This is mainly due to the ineffectiveness of current chemotherapy treatments for late stage and advanced metastatic disease. Despite advances in our understanding of the biology of these tumours, there have been disappointingly few advances in CRC therapy in the last 20 years. Recent work has highlighted the importance of the chemical messages that arise from cells that support the tumour (tumour microenvironment), yet current understanding of CRC is based largely on the epithelial tumour cells themselves. The Molecular Pathology Research Group is focused on investigating mechanisms underlying disease progression in CRC, with a particular interest in understanding the crosstalk between tumour cells and the tumour microenvironment associated with early dissemination of tumour cells. The research programme also includes development of molecular subtypes, using signalling associated with intrinsic (epithelial) and extrinsic (stromal and immune) components of the tumour."
+  },
+  {
+    "objectID": "keynotes/key2024/keynote3.html",
+    "href": "keynotes/key2024/keynote3.html",
+    "title": "Dr Paul Kirk",
+    "section": "",
+    "text": "Dr Paul Kirk is a Group Leader at the MRC Biostats Unit in the University of Cambridge\n\nResearch Interests\nI have interests in Bayesian methods for unsupervised genomic dataset integration, and many broad aspects of statistical and mathematical modelling in biology (parameter inference for mathematical models, network inference, modelling signalling pathways, experimental design and model choice)."
+  },
+  {
     "objectID": "conference/2024_conference/index.html",
     "href": "conference/2024_conference/index.html",
     "title": "Glasgow University Computational Biology Conference 2024",
     "section": "",
     "text": "Take part in talks, networking and learning about everything computational biology!\nWhen: 5th & 6th September.\nWhere: Advanced Research Center (ARC)\nAbstract submission deadline: TBD\n\n\n\nTwo specialist sessions:\n\nIs spatial transcriptomics worth the hype?\nTBD\n\nScientific talks:\n\nThree amazing keynote speakers\nAbstracts selected from your community on various topics within bioinformatics and computational biology\n\nNetworking:\n\nCoffee breaks long enough to have some great discussions!\nPoster session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\nProgramme of talks for 2024 TBD"
-  },
-  {
-    "objectID": "conference/2024_conference/index.html#topics-of-interest",
-    "href": "conference/2024_conference/index.html#topics-of-interest",
-    "title": "Glasgow University Computational Biology Conference 2024",
-    "section": "Topics of Interest",
-    "text": "Topics of Interest\n\nOmics\nSystems Biology\nPopulation Genetics\nMedical Imaging\nComputational approaches to public health and clinical data"
-  },
-  {
-    "objectID": "conference/2024_conference/index.html#transport-to-the-conference",
-    "href": "conference/2024_conference/index.html#transport-to-the-conference",
-    "title": "Glasgow University Computational Biology Conference 2024",
-    "section": "Transport to the Conference",
-    "text": "Transport to the Conference\nThere are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.\nClick here to view transport and accessibility options"
-  },
-  {
-    "objectID": "conference.html",
-    "href": "conference.html",
-    "title": "Annual conference",
-    "section": "",
-    "text": "Glasgow University Computational Biology Conference 2023\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2024\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "conference/2024_conference/index.html#what-to-expect",
@@ -215,5 +117,96 @@
     "title": "Glasgow University Computational Biology Conference 2024",
     "section": "Location",
     "text": "Location\nAdvanced Research Centre (ARC), University of Glasgow\n\nTelephone: +44 (0)141 330 4170\nAddress: The Mazumdar-Shaw Advanced Research Centre, 11 Chapel Lane, G11 6EW\nFind on Google Maps\n\n\n\n\nJoin us in the Mazumdar-Shaw Advanced Research Centre (ARC)"
+  },
+  {
+    "objectID": "conference/2024_conference/index.html#transport-to-the-conference",
+    "href": "conference/2024_conference/index.html#transport-to-the-conference",
+    "title": "Glasgow University Computational Biology Conference 2024",
+    "section": "Transport to the Conference",
+    "text": "Transport to the Conference\nThere are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.\nClick here to view transport and accessibility options"
+  },
+  {
+    "objectID": "conference.html",
+    "href": "conference.html",
+    "title": "Annual conference",
+    "section": "",
+    "text": "Glasgow University Computational Biology Conference 2023\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGlasgow University Computational Biology Conference 2024\n\n\nTake part in talks, networking and learning about everything computational biology!\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "conference/2023_conference/index.html",
+    "href": "conference/2023_conference/index.html",
+    "title": "Glasgow University Computational Biology Conference 2023",
+    "section": "",
+    "text": "Welcome to the Glasgow University Computational Biology Conference 2023\nCome and join us at the ARC on the 3rd and 4th of July 2023\nTake part in talks, networking and learning about everything computational biology!\nAbstract submission deadline is the 22nd of May\n\n\nOur 2023 Keynote Speakers\n\n\n\n\n\n\n\n\n\n\nDr Catalina Vallejos\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor Louise Matthews\n\n\n\n\n\n\n\n\n\n\n\n\n\nProfessor Magnus Rattray\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nSchedule\n\n\n\n\n\n\nTime\nevent\nName\nTitle\n\n\n\n\nMonday\n\n\n09:00-09:30\nRegistration\n\n\n\n\n09:30-09:45\nIntroduction\n\nIntroduction from Professor Carl Goodyear, Professor of Translational Immunology, Director of Innovation, Engagement and Enterprise\n\n\n09:45-10:30\nKeynote 1\nLouise Matthews\nReproducible agent-based models for public health policy\n\n\n10:30-11:00\nCoffee\n\n\n\n\n11:00-11:30\nInvited talk\nSudhir Malla\nPathway-derived molecular subtyping unveils a subtle shift in proliferative-to-differentiated homeostasis associated with outcome in colorectal cancer\n\n\n11:30-12:00\nInvited talk\nJoana Carvalheiro\nEEG-informed high resolution imaging of human midbrain activity during reward and punishment learning\n\n\n12:00-12:30\nInvited talk\nDidier Devaurs\nImproving the coverage of deep mutational scanning using machine learning\n\n\n12:30-01:30\nLunch\n\n\n\n\n01:30-02:15\nKeynote 2\nMagnus Rattray\nProbabilistic modelling of transcription dynamics in whole embryos and single cells\n\n\n02:15-03:00\nLightning talks\n\n\n\n\n03:00-03:30\nCoffee\n\n\n\n\n03:30-04:00\nInvited talk\nSarwah Koutaiba Al-Khalidi\nGrab Your Partners: The Choreography of an Effective T-cell Response\n\n\n04:00-06:00\nPosters + drinks\n\n\n\n\nTuesday\n\n\n09:30-10:15\nKeynote 3\nCatalina Vallejos\nUsing routine healthcare data to predict future health\n\n\n10:15-10:30\nComputational Biology Discussion\n\n\n\n\n10:30-11:00\nCoffee\n\n\n\n\n11:00-11:30\nInvited talk\nLanxin Li\nBayesian Group Lasso Regression for Genome-wide Association  Studies\n\n\n11:30-12:00\nInvited talk\nLucy Martin\nMachine learning to recognise senescence in glioblastoma\n\n\n12:00-12:30\nInvited talk\nLucas Farndale\nSuper Vision without supervision: Leveraging Self-Supervised Multimodal Integration for Enhanced Medical Imaging\n\n\n12:30-01:30\nLunch\n\n\n\n\n01:30-02:30\nData Reproducibility Panel Discussion\n\n\n\n\n02:30-03:00\nInvited talk\nJay Mackenzie\nA graph theoretic exploration of coronary vascular trees\n\n\n03:00-03:30\nCoffee\n\n\n\n\n03:30-04:00\nInvited talk\nAnastasia Ignatieva\nReconstructing genealogies from genetic sequencing data\n\n\n04:00-04:30\nInvited talk\nJoe Wandy\nOmics Design of Basket Trials in Precision Medicine\n\n\n04:30-05:00\nClose"
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Monthly Events",
+    "section": "",
+    "text": "April 2024\n\n\n\nsoftware\n\n\ninfrastructure\n\n\n\nInsights into the role of software engineering in research\n\n\n\n\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarch 2024\n\n\n\nmicroscopy\n\n\n\nMicroscopy\n\n\n\n\n\n\nMar 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFebruary 2024\n\n\n\nmathematics\n\n\nmodeling\n\n\n\nHighlight on mathematical modeling\n\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2024\n\n\n\nmathematics\n\n\nchemistry\n\n\n\nProbing Selection and Evolution using Assembly Theory\n\n\n\n\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDecember 2023\n\n\n\nquiz\n\n\nsocial\n\n\n\nChristmas quiz!\n\n\n\n\n\n\nDec 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNovember 2023\n\n\n\nbiology\n\n\nsequencing\n\n\n\nEpigenetics\n\n\n\n\n\n\nNov 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "keynotes/key2024/keynote2.html",
+    "href": "keynotes/key2024/keynote2.html",
+    "title": "Dr Rona Strawbridge",
+    "section": "",
+    "text": "Dr Rona Strawbridge is a Senior Lecturer in the School of Health & Wellbeing at the University of Glasgow.\n\nResearch\nPeople with serious mental illness (such as schizophrenia, bipolar disorder and major depressive disorder) have an increased incidence of cardiometabolic disease (such as obesity, type 2 diabetes and heart disease) compared to the general population, however the reasons for this are poorly understood. It is possible that there are common biological mechanisms for both mental and physical traits. If so, some medications currently used for cardiometabolic disorders could be repurposed to improve mental health and reduce long-term complications in those with serious mental illness.\nI aim to investigate whether common biological mechanisms underlie physical and mental illness by:\n\nExploring the genetic basis of serious mental illness, using cross-diagnostic traits associated with psychiatric diseases (following the research domain criteria (RDoC) approach)\nAssessing the impact of genetic susceptibility to serious mental illness on cardiometabolic traits.\nUsing genetics to improve prediction of risk, severity and outcomes in serious mental illness."
+  },
+  {
+    "objectID": "keynotes/key2023/louise.html",
+    "href": "keynotes/key2023/louise.html",
+    "title": "Professor Louise Matthews",
+    "section": "",
+    "text": "Louise Matthews is a Professor of Infections Disease Ecology at the School of Biodiversity, One health & Veterinary Medicine at the University of Glasgow.\n\nResearch in a Nutshell \nMy interests lie in the application of quantitative tools to infectious disease data to understand of host-pathogen systems and inform disease control. Current areas of interest include:\n\nThe role of individual variability (such as superspreading or genetic predisposition) in disease synamics and control\nThe sources of aggregation in host-parasite systems\nThe mathematics of diversity measures\nGenetic susceptibility and selective breeding for disease control\nGame theory and control planning\n\nCurrent projects and applications in these areas include the transmission and control of E. coli O157 in the cattle reservoir; the role of virulence factors in the epidemiology of non-O157 E. coli; the genetic epidemiology of resistance to sea-lice infection in salmon; the impact of selective breeding on MHC diversity; the identification of sources of aggregation in the sheep-nematode system systems; and the epidemiology and ecology of antimicrobial resistance."
+  },
+  {
+    "objectID": "keynotes/key2023/magnus.html",
+    "href": "keynotes/key2023/magnus.html",
+    "title": "Professor Magnus Rattray",
+    "section": "",
+    "text": "Magnus Rattray is a Professor of Computational & Systems Biology and Director of the Institute for Data Science & Artificial Intelligence of the University of Manchester. He is also a Turing Fellow.\n\nBiography\n2012 - Present: Professor of Computational and Systems Biology, Faculty of Life Sciences, University of Manchester\n2010 - 2012: Professor of Statistical Bioinformatics and Machine Learning, Sheffield Institute for Translational Neuroscience and Department of Computer Science, University of Sheffield\n1998 - 2010: Lecturer and Senior Lecturer in Department of Computer Science, University of Manchester\n1996 - 1998: EPSRC Postdoctoral Research Associate, Neural Computing Research Group, Department of Applied Mathematics, Aston University\n1993-1996: PhD Computer Science, University of Manchester\n1989-1992: BSc (1st class hons) Mathematics and Physics, University of Manchester\n\n\nResearch interests\nMy group works on how to learn models and make inferences given evidence from high-throughput biological datasets. The models that we develop range from mechanistic differential equation models of the cell to more abstract probabilistic latent variable models that can be used uncover interesting structure in high-dimensional data. We are particularly interested in hybrid models that combine aspects of mechanistic and probabilistic models.\nModels encode our hypotheses about how biological systems work. We use probabilistic inference to learn the model parameters and to choose between competing models so as to identify the hypotheses best supported by the available experimental evidence. Bayesian inference and non-parametric modelling is a particular focus as this provides a principled framework for dealing with uncertainty in complex systems. We are applying our methods to infer gene regulatory networks from time-series mRNA expression and DNA-protein binding data, to uncover changes in the transcriptome from RNA-Seq datasets, and to develop novel inference algorithms for time-series data analysis and systems biology modelling.\n\n\nOverview\nBiology has become a data-rich science. Modern high-throughput experimental techniques can make simultaneous measurements of vast numbers of biological molecules and their interactions. These measurements can be taken at different times during some biological process, resulting in time-series data. My research group works on the interpretation of these datasets by building predictive models of biological systems using computer algorithms. We have developed methods to uncover the patterns underlying gene expression changes in time and to uncover the complex network of molecular interactions between DNA and proteins which regulate this process. We are also interested in how biological systems change and adapt over much longer evolutionary time-scales using phylogenetic models."
+  },
+  {
+    "objectID": "nextEvent.html",
+    "href": "nextEvent.html",
+    "title": "Next Event",
+    "section": "",
+    "text": "Metabolomics\n\n3:30pm on Friday October 27th in SAWB 422/423 (School of Computing Science)\nWe have 3 exciting talks lined up with speakers information below. The talks will be in Room 422/423 of the Sir Alwyn Williams Building (SAWB) in the School of Computing Science. And come along to the pub afterwards!\n\nMike Barrett: Metabolomics in Drug Discovery\nGavin Blackburn: Metabolomics Data Analysis- why it’s not so straightforward\nClement Regnault: Metabolomics: applications in biology"
+  },
+  {
+    "objectID": "events/202403_microscopy/index.html",
+    "href": "events/202403_microscopy/index.html",
+    "title": "March 2024",
+    "section": "",
+    "text": "Our March session is dedicated to microscopy, and we have 3 exciting talks lined up. This time we are off to the Garscube campus and the Lecture Theatre of the CRUK Scotland Institute (previously known as the Beatson Institute) on the 20th of March, starting at 3pm.\n\nClaire Mitchell (CRUK Scotland Institute)  Light microscopy for computational biologists\nRyan Corbyn (CRUK Scotland Institute) Using deep-learning tools to track cell interactions\nJoe Knapper (University of Glasgow) The OpenFlexure Microscope: Open-source, closed-loop automated microscopy for anyone"
+  },
+  {
+    "objectID": "events/202403_microscopy/index.html#microscopy",
+    "href": "events/202403_microscopy/index.html#microscopy",
+    "title": "March 2024",
+    "section": "",
+    "text": "Our March session is dedicated to microscopy, and we have 3 exciting talks lined up. This time we are off to the Garscube campus and the Lecture Theatre of the CRUK Scotland Institute (previously known as the Beatson Institute) on the 20th of March, starting at 3pm.\n\nClaire Mitchell (CRUK Scotland Institute)  Light microscopy for computational biologists\nRyan Corbyn (CRUK Scotland Institute) Using deep-learning tools to track cell interactions\nJoe Knapper (University of Glasgow) The OpenFlexure Microscope: Open-source, closed-loop automated microscopy for anyone"
+  },
+  {
+    "objectID": "events/202404_SoftEngine/index.html",
+    "href": "events/202404_SoftEngine/index.html",
+    "title": "April 2024",
+    "section": "",
+    "text": "We are pleased to confirm the details of our April meeting on research software engineering.\nApril 25th, 3pm, 422/423 School of Computing Science, Sir Alwyn Williams Building.\nWith contributions from:\n\nMayank Sikarwar: Role of Research Software Engineering in Cancer Biology\nKathryn Crouch: Strategies for Long Term Sustenance of a Biological Software Resource\nIain Barras: MVLS RSE: a central RSE team in MVLS\nWilliam Haese-Hill: The challenges of RSE in the field of Bioinformatics\n\nLooking forward to seeing you all!"
+  },
+  {
+    "objectID": "events/202404_SoftEngine/index.html#research-software-engineering",
+    "href": "events/202404_SoftEngine/index.html#research-software-engineering",
+    "title": "April 2024",
+    "section": "",
+    "text": "We are pleased to confirm the details of our April meeting on research software engineering.\nApril 25th, 3pm, 422/423 School of Computing Science, Sir Alwyn Williams Building.\nWith contributions from:\n\nMayank Sikarwar: Role of Research Software Engineering in Cancer Biology\nKathryn Crouch: Strategies for Long Term Sustenance of a Biological Software Resource\nIain Barras: MVLS RSE: a central RSE team in MVLS\nWilliam Haese-Hill: The challenges of RSE in the field of Bioinformatics\n\nLooking forward to seeing you all!"
+  },
+  {
+    "objectID": "events/202401_assembly/index.html",
+    "href": "events/202401_assembly/index.html",
+    "title": "January 2024",
+    "section": "",
+    "text": "We have a talk lined up by the first author of Assembly theory explains and quantifies selection and evolution. Abhishek’s talk will first give us an overview of the work happening in Cronin’s lab before focusing on assembly theory. \n\nWhen: Jan. 25th, 4pm \nWhere: Maths and Stats: 116 Lecture Theatre\n\n\nLooking forward to seeing you all,\nCompBio organisers"
   }
 ]
