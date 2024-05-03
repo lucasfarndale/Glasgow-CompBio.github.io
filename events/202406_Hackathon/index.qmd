@@ -1,0 +1,56 @@
+---
+title: "Hackathon 2024"
+description: "Biology Meets Big Data "
+date: 06-01-2024
+image: image.jpeg
+categories: [hackathon] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# Biology Meets Big Data Hackathon 2024
+
+Welcome to the University of Glasgow Computational Biology Hackathon. 
+
+Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
+
+## Event Details
+
+-   **Date**: 12th-14th June, 2024
+
+-   **Time:** 10am-4pm
+
+-   **Location**: McMillan Round Reading Room, Main Campus, University Avenue.
+
+## Why Participate?
+
+1.  **Interdisciplinary Exploration**: Dive into the intersection of biology, computer science, and big data analysis.
+
+2.  **Networking**: Connect with fellow researchers and forge collaborative relationships across the University.
+
+3.  **Challenging Problems**: We have curated an exciting range of projects with associated data. Choose your challenge!
+
+4.  **Skill Enhancement**: Learn new coding and data handling skills.
+
+## Who Should Attend?
+
+-   **Postgrads**: Whether you’re a Masters or a PhD candidate, this hackathon is your chance to apply computational techniques to real-world biological questions.
+
+-   **Researchers**: Join forces with fellow scientists to crack complex problems. Collaborate, brainstorm, and innovate!
+
+-   **PIs**: Share your expertise and mentor the next generation of computational biologists.
+
+## The Projects
+
+1.  Development of a compact and concurrently accessible open-source standard file format for pyramidal whole slide pathology Images to facilitate AI training.
+
+2.  HGP-LASAGNE: Resolving histopathological growth patterns in colorectal–liver metastasis into layers of spatial heterogeneity.
+
+3.  Host-Pathogen Extractor: Using text mining, Natural Language Processing, and Deep Learning to automate database creation for infectious disease research and surveillance.
+
+4.  The FAIR Data Pipeline: Provenance driven data management
+
+5.  iCLIP2 data analysis: Mapping protein footprints on RNA.\
+
+## Registration
+
+Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false). Limited slots available!

@@ -19,6 +19,20 @@ about:
 
 Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you're utilizing computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don't miss out -- come along and be a part of our dynamic community!
 
+## Quick links
+
+[Glasgow Computational Biology Conference 2024](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[Straight to the hackathon page](){.btn .btn-info .btn role="button" data-toggle="tooltip" title=""}
+
+## Join Us for a Groundbreaking Event: Biology Meets Big Data Hackathon 2024!
+
+We're thrilled to announce an extraordinary opportunity where biology intersects with big data - the Biology Meets Big Data Hackathon 2024!
+
+This hackathon will bring together brilliant minds from diverse backgrounds to tackle some of the most pressing challenges in the fields of biology and data science.
+
+Whether you're a seasoned biologist, a data enthusiast, or someone passionate about innovation, this event is for you! Join us for a weekend of collaboration, creativity, and cutting-edge problem-solving.
+
+Get ready to unleash your potential and make a meaningful impact at the Biology Meets Big Data Hackathon 2024!
+
 ## Monthly Events
 
 Engage in lively discussions and exchange ideas at our regular science-sharing events!
