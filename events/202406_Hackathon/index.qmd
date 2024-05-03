@@ -49,7 +49,9 @@ Are you passionate about unravelling the mysteries of life through code and data
 
 4.  The FAIR Data Pipeline: Provenance driven data management
 
-5.  iCLIP2 data analysis: Mapping protein footprints on RNA.\
+5.  iCLIP2 data analysis: Mapping protein footprints on RNA.
+
+***More information on each project coming soon!***
 
 ## Registration
 
