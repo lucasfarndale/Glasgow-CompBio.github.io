@@ -91,20 +91,25 @@ More information to follow!
 ## FAQs
 
 **Q1:** I want to participate but worried about my coding skills/AI knowledge/etc?
+
 A1: Hackathons are a great environment to learn, so don't worry, just be upfront with your team lead. You can still contribute in so many ways, like ideas, writing, biological knowledge, management, etc.
 
 
 **Q2:** I can only attend 2 out of the 3 days. Is this a problem?
+
 A2: While attending the full duration of the Hackathon would be beneficial, we understand that committing 3 days might be difficult for some. Please include that information in your application form.
 
 
 **Q3:** I am a master student and worried about my skills suitability.
+
 A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that most projects require initial preparation before the Hackathon.
 
 **Q4:** What if I don't know any other participants?
+
 A4: This is a great opportunity to get to know people from across the university! You don't need to have spoken to anyone prior to signing up, just fill out the [sign-up form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false) and you will be made very welcome.
 
 **Q5:** Will I definitely be included in the team for my preferred project?
+
 A5: We aim to offer every participant a spot on their preferred team but this may not be possible if a project is oversubscribed. This is why we ask you to rank projects by preference on the [sign-up form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false). If there is a project you don't want to be considered for, please indicate this on the form.
 
 ## Registration
