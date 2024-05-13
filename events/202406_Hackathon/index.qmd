@@ -7,11 +7,14 @@ categories: [hackathon] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+
 # Biology Meets Big Data Hackathon 2024
 
 Welcome to the University of Glasgow Computational Biology Hackathon. 
 
 Are you passionate about unravelling the mysteries of life through code and data? Do you dream of collaborating with brilliant minds to tackle complex biological problems? Look no further! Our exclusive hackathon is designed for researchers, students, and enthusiasts who share a common goal: advancing computational biology.
+
+[Sign Up Here!](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Sign Up Link"}
 
 ## Event Details
 
@@ -41,18 +44,64 @@ Are you passionate about unravelling the mysteries of life through code and data
 
 ## The Projects
 
-1.  Development of a compact and concurrently accessible open-source standard file format for pyramidal whole slide pathology Images to facilitate AI training.
+1. **Development of a compact and concurrently accessible open-source standard file format for pyramidal whole slide pathology Images to facilitate AI training.**
 
-2.  HGP-LASAGNE: Resolving histopathological growth patterns in colorectal–liver metastasis into layers of spatial heterogeneity.
+Project lead: Chris Walsh ([c.walsh\@crukscotlandinstitute.ac.uk](mailto:c.walsh@crukscotlandinstitute.ac.uk))
 
-3.  Host-Pathogen Extractor: Using text mining, Natural Language Processing, and Deep Learning to automate database creation for infectious disease research and surveillance.
+Advances in digital pathology have revolutionised the field but resulted has  in the challenge of managing vast amounts of data. However, whole slide imaging scanners output the data in proprietary formats which often lack accessibility and flexibility. To address the issue here we propose building a new open source pyramidal file format.
 
-4.  The FAIR Data Pipeline: Provenance driven data management
+More information about this project can be found [here](https://gla-my.sharepoint.com/:b:/r/personal/a_pancheva_crukscotlandinstitute_ac_uk/Documents/BigDataMeetsBiologyHackathon/DataFormat.pdf?csf=1&web=1&e=Zi90Ej).
 
-5.  iCLIP2 data analysis: Mapping protein footprints on RNA.
 
-***More information on each project coming soon!***
+2. **HGP-LASAGNE: Resolving histopathological growth patterns in colorectal–liver metastasis into layers of spatial heterogeneity**
+
+Project lead: Tengyu Zhang ([t.zhang.6\@research.gla.ac.uk](mailto:t.zhang.6@research.gla.ac.uk))
+
+Colorectal cancer (CRC) represents a significant global health challenge, ranking as the second-leading cause of cancer-related deaths worldwide. There is a critical need to understand the metastatic processes and imaging based spatial transcriptomics offers this unique opportunity. The goal of the hackathon is to analyse unpublished spatial transcriptomics data from Jamieson Spatial Lab.
+
+More information about this project can be found [here](https://gla-my.sharepoint.com/:w:/r/personal/a_pancheva_crukscotlandinstitute_ac_uk/Documents/BigDataMeetsBiologyHackathon/HGP-LASAGNE.docx?d=we51600261330441e86b2182fb22d3703&csf=1&web=1&e=K85gc7).
+
+Please note that you will have to sign a data sharing/protection declaration before starting work on this project.
+
+
+3. **Host-Pathogen Extractor: Using text mining, Natural Language Processing, and Deep Learning to automate database creation for infectious disease research and surveillance**
+
+Project Lead: Max Farrel ([maxwell.farrell\@glasgow.ac.uk](mailto:maxwell.farrell@glasgow.ac.uk))
+
+Large scale databases of host-pathogen interactions underlie models that predict future emerging infectious disease threats, and guide surveillance of cross-species pathogens. As the number of papers increases exponentially, automated ways of extracting this information should be considered, however those have been rare in ecology. As part of this project, the hackathon teams will explore different ways of extracting host-pathogen interactions from abstracts, from traditional pattern matching to applying large language models.
+
+More information about this project can be found [here](https://gla-my.sharepoint.com/:w:/r/personal/a_pancheva_crukscotlandinstitute_ac_uk/Documents/BigDataMeetsBiologyHackathon/HostPathogenExtractor.docx?d=w59b36301f80a4a999528a6193ddcf567&csf=1&web=1&e=2Cz1u4).
+
+
+4. **The FAIR Data Pipeline: Provenance driven data management**
+
+Project lead: Ryan Field ([ryan.field\@glasgow.ac.uk](mailto:ryan.field@glasgow.ac.uk))
+
+To address the issues of FAIR and traceable data and models, the FAIR data pipeline was developed. It is available for various programming languages and is continuously developed by a very small team. The project would greatly benefit from further testing, bug fixing and tutorials. During the Hackathon we hope that team members can test the pipeline on their own real world data and help improve the user experience and documentation.
+
+More information about this project can be found [here](https://gla-my.sharepoint.com/:w:/r/personal/a_pancheva_crukscotlandinstitute_ac_uk/Documents/BigDataMeetsBiologyHackathon/FAIRDataPipeline.docx?d=w429e6a84e7704d45a2a39fefe6148a57&csf=1&web=1&e=PeE1hN).
+
+
+5. **Development of an iCLIP2 data analysis tool, mapping protein footprints on RNA.**
+
+Development of a pipeline with a web interface for iCLIP data analysis to allow researchers to upload sequencing data along with required parameters and necessary files for their analysis.
+
+More information to follow!
+
+## FAQs
+
+**Q1:** I want to participate but worried about my coding skills/AI knowledge/etc?
+A1: Hackathons are a great environment to learn, so don't worry just be upfront with your team lead. You can still contribute in so many ways.
+
+
+**Q2:** I can only attend 2 out of the 3 days. Is this a problem?
+A2: While attending the full duration of the Hackathon would be beneficial, we understand that committing 3 days might be difficult for some. Please include that information in your application form.
+
+
+**Q3:** I am a master student and worried about my skills suitability.
+A3: See Q1. We welcome participants from diverse backgrounds and you can contribute in many different ways. Also, please note that most projects require initial preparation before the Hackathon.
+
 
 ## Registration
 
-Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](). Limited slots available!
+Ready to embark on this scientific adventure? [Pick your preferred project and reserve your spot now](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&token=e40eb3bd3575491e830f41c7e50ce6d3&id=KVxybjp2UE-B8i4lTwEzyA7uhp5j0VVAm1l7G2aof01UNk9PSEdERVdZMFlRRUxOUUs1MjRKWFgyVy4u&analysis=false). Limited slots available! Please express your interest and fill in the form by the 31st of May.
