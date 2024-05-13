@@ -1,0 +1,17 @@
+---
+title: "Dr Paul Kirk"
+image: Paul_Kirk.png
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://crukcambridgecentre.org.uk/users/pauldwkirk
+---
+
+Dr Paul Kirk is a Group Leader at the MRC Biostats Unit in the University of Cambridge
+
+# Research Interests
+
+I have interests in Bayesian methods for unsupervised genomic dataset integration, and many broad aspects of statistical and mathematical modelling in biology (parameter inference for mathematical models, network inference, modelling signalling pathways, experimental design and model choice).

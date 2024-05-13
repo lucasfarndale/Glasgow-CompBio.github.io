@@ -17,14 +17,48 @@ about:
 
 # Bringing Glasgow's computational biology & bioinformatics community together
 
-If you're using a computer to solve a biology problem and you're at the University of Glasgow, you are part of the Glasgow Computational Biology community. Come along to one of our events!
+Join the vibrant Glasgow Computational Biology community at the University of Glasgow! Whether you're utilizing computer algorithms to tackle intriguing biology problems or simply curious about the intersection of computation and life sciences, our events are perfect for you. Embrace the opportunity to connect with like-minded individuals, exchange ideas, and delve deeper into the exciting world of computational biology. Don't miss out -- come along and be a part of our dynamic community!
 
-## Events
+## Quick links
 
-Regular events to share science and have a chat!
+[Glasgow Computational Biology Conference 2024](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}[Check out our monthly events](https://glasgow-compbio.github.io/events.html){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our monthly events"}[Straight to the hackathon page](https://glasgow-compbio.github.io/events/202406_Hackathon/){.btn .btn-info .btn role="button" data-toggle="tooltip" title="Hackthon 2024"}
 
-The community hosts events to chat about cool innovations in computational biology and bioinformatics. We have events across the university at the main campus at Gilmorehill and at various centres at Garscube and then often head to the pub. Come join us!
+## Join Us for a Groundbreaking Event: Biology Meets Big Data Hackathon 2024!
+
+We're thrilled to announce an extraordinary opportunity where biology intersects with big data - the Biology Meets Big Data Hackathon 2024!
+
+This hackathon will bring together brilliant minds from diverse backgrounds to tackle some of the most pressing challenges in the fields of biology and data science.
+
+Whether you're a seasoned biologist, a data enthusiast, or someone passionate about innovation, this event is for you! Join us for a weekend of collaboration, creativity, and cutting-edge problem-solving.
+
+Get ready to unleash your potential and make a meaningful impact at the Biology Meets Big Data Hackathon 2024!
+
+## Monthly Events
+
+Engage in lively discussions and exchange ideas at our regular science-sharing events!
+
+Our community gathers to explore fascinating advancements in computational biology and bioinformatics, sparking conversations that inspire innovation. Join us at various locations across the university, from the main campus at Gilmorehill to centers at Garscube, and afterward, unwind and continue the conversation at the pub.
 
 ## The Conference
 
-The next Glasgow Computational Biology conference will happen in 2024. Thanks to all who came to 2023's great event.
+### Overview
+
+**An opportunity to bring together Computational Biologists from across the University and further afield**
+
+Computational biology is fast becoming one of the most interesting research areas in modern science and the University of Glasgow has a large number of researchers working within the area.
+
+[Glasgow Computational Biology Conference 2024](https://glasgow-compbio.github.io/conference/2024_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2024 conference"}
+
+#### Topics of Interest
+
+-   Omics
+-   Systems Biology
+-   Population Genetics
+-   Medical Imaging
+-   Computational approaches to public health and clinical data
+
+#### Our Goal
+
+The University of Glasgow computational biology conference is an opportunity for Ph.D. students and early career researchers to come together to share ideas and build collaboration for future projects. The conference will cover a wide variety of applied and methodological research related to computational biology, and we welcome researchers from a variety of backgrounds.
+
+If your research area is not covered by the list above but it's still relevant to computational biology, do not hesitate to submit an abstract. The conference will give the chance for students and early career researchers to present their work, but also give them the opportunity to listen to established researchers from within the University of Glasgow. See the confirmed list of keynote speakers. This event provides excellent opportunities to network and discuss your research.

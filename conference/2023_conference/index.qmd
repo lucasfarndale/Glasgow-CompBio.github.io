@@ -1,12 +1,11 @@
 ---
 title: "Glasgow University Computational Biology Conference 2023"
 description: "Take part in talks, networking and learning about everything computational biology!"
-date: 01-01-2023
 image: compBio_com_23V2.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 listing:
   - id: keynotes
-    contents: "../../keynotes/*.qmd"
+    contents: "../../keynotes/key2023/*.qmd"
     type: grid
     image-height: 225px
     grid-columns: 3

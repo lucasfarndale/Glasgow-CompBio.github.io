@@ -1,0 +1,26 @@
+---
+title: "April 2024"
+description: "Insights into the role of software engineering in research"
+date: 04-01-2024
+image: image.jpeg
+categories: [software, infrastructure] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Research Software Engineering 
+
+We are pleased to confirm the details of our April meeting on research software engineering.
+
+April 25th, 3pm, 422/423 School of Computing Science, Sir Alwyn Williams Building.
+
+With contributions from:
+
+-   **Mayank Sikarwar:** *Role of Research Software Engineering in Cancer Biology*
+
+-   **Kathryn Crouch:** *Strategies for Long Term Sustenance of a Biological Software Resource*
+
+-   **Iain Barras:** *MVLS RSE: a central RSE team in MVLS*
+
+-   **William Haese-Hill:** *The challenges of RSE in the field of Bioinformatics*
+
+Looking forward to seeing you all! 

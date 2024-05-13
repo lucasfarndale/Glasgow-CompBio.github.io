@@ -1,0 +1,67 @@
+---
+title: "Glasgow University Computational Biology Conference 2024"
+description: "Take part in talks, networking and learning about everything computational biology!"
+image: arc_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+listing:
+  - id: keynotes
+    contents: "../../keynotes/key2024/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title]
+    grid-item-align: center
+---
+
+# **Welcome to the Glasgow University Computational Biology Conference 2024**
+
+Take part in talks, networking and learning about everything computational biology!
+
+**When:** 5th & 6th September.
+
+**Where:** Advanced Research Center (ARC)
+
+**Abstract submission deadline:** TBD
+
+## What to expect:
+
+-   **Two specialist sessions:**
+    -   Is spatial transcriptomics worth the hype?
+    -   TBD
+-   **Scientific talks:**
+    -   Three amazing keynote speakers
+    -   Abstracts selected from your community on various topics within bioinformatics and computational biology
+-   **Networking:**
+    -   Coffee breaks long enough to have some great discussions!
+    -   Poster session
+
+## **Our 2024 Keynote Speakers**
+
+::: {#keynotes}
+:::
+
+[Programme of talks for 2024 TBD]{.btn .btn-primary .btn role="button" data-toggle="tooltip" title="Programme of talks for 2024 TBD"}
+
+# Practical information
+
+## **Location**
+
+**Advanced Research Centre (ARC), University of Glasgow**
+
+-   **Telephone:** +44 (0)141 330 4170
+
+-   **Address:** The Mazumdar-Shaw Advanced Research Centre, 11 Chapel Lane, G11 6EW
+
+-   [Find on Google Maps](https://goo.gl/maps/DbjyvBYBZwK4e5JG7)
+
+![Join us in the Mazumdar-Shaw Advanced Research Centre (ARC)](arc_image.jpg)
+
+## Transport to the Conference
+
+There are a number of ways to get to the conference site either by walking, cycling, public transport or driving. For more information about site accessibility, click the button below. We encourage all attendees to take sustainable travel routes where possible.
+
+[Click here to view transport and accessibility options](https://www.gla.ac.uk/myglasgow/sustainability/travel/traveltogilmorehillcampus/){.btn .btn-primary .btn role="button" data-toggle="tooltip" title="View transport and accessibility options"}
+
+# Previous Conferences
+
+[Glasgow Computational Biology Conference 2023](https://glasgow-compbio.github.io/conference/2023_conference/){.btn .btn-secondary .btn role="button" data-toggle="tooltip" title="View details of our 2023 conference"}

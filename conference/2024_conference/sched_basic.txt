@@ -1,0 +1,27 @@
+time_start	time_end	Day	Session	event	First	Last	Title
+09:00	09:30	Monday	Morning	Registration			
+09:30	09:45	Monday	Morning	Introduction			Introduction from Professor Carl Goodyear, Professor of Translational Immunology, Director of Innovation, Engagement and Enterprise
+09:45	10:30	Monday	Morning	Keynote 1	Louise	Matthews	Reproducible agent-based models for public health policy
+10:30	11:00	Monday	Morning	Coffee			
+11:00	11:30	Monday	Morning	Invited talk	Sudhir	Malla	Pathway-derived molecular subtyping unveils a subtle shift in proliferative-to-differentiated homeostasis associated with outcome in colorectal cancer
+11:30	12:00	Monday	Morning	Invited talk	Joana	Carvalheiro	EEG-informed high resolution imaging of human midbrain activity during reward and punishment learning
+12:00	12:30	Monday	Morning	Invited talk	Didier	Devaurs	Improving the coverage of deep mutational scanning using machine learning
+12:30	01:30	Monday	Afternoon	Lunch			
+01:30	02:15	Monday	Afternoon	Keynote 2	Magnus	Rattray	Probabilistic modelling of transcription dynamics in whole embryos and single cells
+02:15	03:00	Monday	Afternoon	Lightning talks			
+03:00	03:30	Monday	Afternoon	Coffee			
+03:30	04:00	Monday	Afternoon	Invited talk	Sarwah	 Koutaiba Al-Khalidi	Grab Your Partners: The Choreography of an Effective T-cell Response
+04:00	06:00	Monday	Afternoon	Posters + drinks			
+09:30	10:15	Tuesday	Morning	Keynote 3	Catalina	Vallejos	Using routine healthcare data to predict future health
+10:15	10:30	Tuesday	Morning	Computational Biology Discussion			
+10:30	11:00	Tuesday	Morning	Coffee 			
+11:00	11:30	Tuesday	Morning	Invited talk	Lanxin	Li	Bayesian Group Lasso Regression for Genome-wide Association  Studies
+11:30	12:00	Tuesday	Morning	Invited talk	Lucy	Martin	Machine learning to recognise senescence in glioblastoma
+12:00	12:30	Tuesday	Morning	Invited talk	Lucas	Farndale	Super Vision without supervision: Leveraging Self-Supervised Multimodal Integration for Enhanced Medical Imaging
+12:30	01:30	Tuesday	Afternoon	Lunch			
+01:30	02:30	Tuesday	Afternoon	Data Reproducibility Panel Discussion			
+02:30	03:00	Tuesday	Afternoon	Invited talk	Jay	Mackenzie	A graph theoretic exploration of coronary vascular trees
+03:00	03:30	Tuesday	Afternoon	Coffee			
+03:30	04:00	Tuesday	Afternoon	Invited talk	Anastasia	Ignatieva	Reconstructing genealogies from genetic sequencing data
+04:00	04:30	Tuesday	Afternoon	Invited talk	Joe	Wandy	Omics Design of Basket Trials in Precision Medicine
+04:30	05:00	Tuesday	Afternoon	Close			

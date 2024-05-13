@@ -1,0 +1,28 @@
+---
+title: "May 2024"
+description: "Biodiversity"
+date: 05-01-2024
+image: image.jpeg
+categories: [biodiversity] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+## Explore Biodiversity with Us!
+
+Join us for an engaging discussion on biodiversity at our upcoming May meeting. We're excited to confirm the details:
+
+**Date:** May 30th
+
+**Time:** 2:00 PM - 4:00 PM
+
+**Location:** Maths and Stats:116 Lecture Theatre
+
+Featuring Contributions From:
+
+-   [**Roderic page**](https://www.gla.ac.uk/schools/bohvm/staff/rodericpage/) - *Text, taxonomy, and trees: challenges in extracting and visualising information on biodiversity*
+
+-   [**Jafet Belmont Osuna**](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jafetbelmontosuna/) - *Challenges of remediating different types of sampling bias in large-scale monitoring schemes*
+
+-   [**Rebecca Mancy**](https://www.gla.ac.uk/schools/education/staff/rebeccamancy/) - *Emergent clustering of species traits as a driver of biodiversity*
+
+We're looking forward to welcoming you all for an insightful exploration of biodiversity! See you there!

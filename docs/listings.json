@@ -1,25 +1,38 @@
 [
   {
-    "listing": "/events.html",
+    "listing": "/conference/2024_conference/index.html",
     "items": [
-      "/events/202402_mathMod/index.html",
-      "/events/202401_assembly/index.html",
-      "/events/202312_quiz/index.html",
-      "/events/202311_epigen/index.html"
+      "/keynotes/key2024/keynote3.html",
+      "/keynotes/key2024/keynote1.html",
+      "/keynotes/key2024/keynote2.html"
     ]
   },
   {
     "listing": "/conference.html",
     "items": [
-      "/conference/2023_conference/index.html"
+      "/conference/2023_conference/index.html",
+      "/conference/2024_conference/index.html"
     ]
   },
   {
     "listing": "/conference/2023_conference/index.html",
     "items": [
-      "/keynotes/catalina.html",
-      "/keynotes/louise.html",
-      "/keynotes/magnus.html"
+      "/keynotes/key2023/catalina.html",
+      "/keynotes/key2023/louise.html",
+      "/keynotes/key2023/magnus.html"
+    ]
+  },
+  {
+    "listing": "/events.html",
+    "items": [
+      "/events/202406_Hackathon/index.html",
+      "/events/202405_Biodiversity/index.html",
+      "/events/202404_SoftEngine/index.html",
+      "/events/202403_microscopy/index.html",
+      "/events/202402_mathMod/index.html",
+      "/events/202401_assembly/index.html",
+      "/events/202312_quiz/index.html",
+      "/events/202311_epigen/index.html"
     ]
   }
 ]

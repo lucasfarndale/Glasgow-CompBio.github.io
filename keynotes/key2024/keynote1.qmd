@@ -1,0 +1,17 @@
+---
+title: "Dr Philip Dunne"
+image: Philip_Dunne.jpg
+toc: false
+about:
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://dunne-lab.com/
+---
+
+Dr Dunne is currently a joint appointment as a Reader in Molecular Pathology within the Patrick G. Johnston Centre for Cancer Research (PGJCCR), Queen's University Belfast and a Group Leader at the CRUK Scotland Institute in Glasgow.
+
+**Molecular Pathology and Tumour Signalling in Early Disseminating Colorectal Cancer (CRC)**
+
+CRC is the third most commonly diagnosed cancer in the world and is the second highest cause of cancer-related death in Europe. This is mainly due to the ineffectiveness of current chemotherapy treatments for late stage and advanced metastatic disease. Despite advances in our understanding of the biology of these tumours, there have been disappointingly few advances in CRC therapy in the last 20 years. Recent work has highlighted the importance of the chemical messages that arise from cells that support the tumour (tumour microenvironment), yet current understanding of CRC is based largely on the epithelial tumour cells themselves. The Molecular Pathology Research Group is focused on investigating mechanisms underlying disease progression in CRC, with a particular interest in understanding the crosstalk between tumour cells and the tumour microenvironment associated with early dissemination of tumour cells. The research programme also includes development of molecular subtypes, using signalling associated with intrinsic (epithelial) and extrinsic (stromal and immune) components of the tumour.

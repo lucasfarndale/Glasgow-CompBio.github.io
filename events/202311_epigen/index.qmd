@@ -2,6 +2,7 @@
 title: "November 2023"
 description: "Epigenetics"
 date: 11-01-2023
+image: image.jpg
 categories: [biology, sequencing] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
